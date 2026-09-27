@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 19,
+    "gender": "Male",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "email": "aarav.sharma@example.com",
+    "phone": "9876543210",
+    "city": "Noida",
+    "marks": 88
+  },
+  {
+    "id": 2,
+    "name": "Khushi Verma",
+    "age": 18,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "email": "khushi.verma@example.com",
+    "phone": "9876543211",
+    "city": "Ghaziabad",
+    "marks": 92
+  },
+  {
+    "id": 3,
+    "name": "Rohan Singh",
+    "age": 20,
+    "gender": "Male",
+    "course": "B.Tech IT",
+    "year": 2,
+    "email": "rohan.singh@example.com",
+    "phone": "9876543212",
+    "city": "Delhi",
+    "marks": 81
+  },
+  {
+    "id": 4,
+    "name": "Priya Gupta",
+    "age": 19,
+    "gender": "Female",
+    "course": "B.Tech ECE",
+    "year": 1,
+    "email": "priya.gupta@example.com",
+    "phone": "9876543213",
+    "city": "Lucknow",
+    "marks": 89
+  },
+  {
+    "id": 5,
+    "name": "Aditya Kumar",
+    "age": 21,
+    "gender": "Male",
+    "course": "B.Tech ME",
+    "year": 3,
+    "email": "aditya.kumar@example.com",
+    "phone": "9876543214",
+    "city": "Kanpur",
+    "marks": 76
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "age": 20,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "email": "sneha.patel@example.com",
+    "phone": "9876543215",
+    "city": "Jaipur",
+    "marks": 94
+  },
+  {
+    "id": 7,
+    "name": "Vikram Yadav",
+    "age": 22,
+    "gender": "Male",
+    "course": "B.Tech Civil",
+    "year": 4,
+    "email": "vikram.yadav@example.com",
+    "phone": "9876543216",
+    "city": "Agra",
+    "marks": 73
+  },
+  {
+    "id": 8,
+    "name": "Neha Sharma",
+    "age": 19,
+    "gender": "Female",
+    "course": "B.Tech IT",
+    "year": 1,
+    "email": "neha.sharma@example.com",
+    "phone": "9876543217",
+    "city": "Meerut",
+    "marks": 86
+  },
+  {
+    "id": 9,
+    "name": "Arjun Mehta",
+    "age": 20,
+    "gender": "Male",
+    "course": "B.Tech ECE",
+    "year": 2,
+    "email": "arjun.mehta@example.com",
+    "phone": "9876543218",
+    "city": "Chandigarh",
+    "marks": 84
+  },
+  {
+    "id": 10,
+    "name": "Ananya Roy",
+    "age": 18,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "email": "ananya.roy@example.com",
+    "phone": "9876543219",
+    "city": "Kolkata",
+    "marks": 91
+  }
+]
